@@ -1,0 +1,25 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "Team Profile Generator",
+  "main": "app.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^8.1.1",
+    "jest": "^27.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryan1992186/teamprofilegenerator.git"
+  },
+  "author": "Ryan Hillier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ryan1992186/teamprofilegenerator/issues"
+  },
+  "homepage": "https://github.com/Ryan1992186/teamprofilegenerator#readme"
+}
